@@ -6,13 +6,13 @@ on:
   - push
   - pull_request
 
-environment: main-action
-
 jobs:
   build:
 
     # The type of machine to run the job on
     runs-on: ubuntu-20.04
+
+    environment: main-action
 
     steps:
         # Check-out repository under GitHub workspace
