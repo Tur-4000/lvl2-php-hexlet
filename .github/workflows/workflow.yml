@@ -6,9 +6,10 @@ on:
   - push
   - pull_request
 
+environment: main-action
+
 jobs:
   build:
-  environment: main-action
 
     # The type of machine to run the job on
     runs-on: ubuntu-20.04
