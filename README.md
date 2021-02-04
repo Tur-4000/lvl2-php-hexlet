@@ -1,5 +1,5 @@
 [![Actions Status](https://github.com/Tur-4000/php-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/Tur-4000/php-project-lvl2/actions)
-[![PHP CI](https://github.com/Tur-4000/php-project-lvl2/workflows/PHP%20CI/badge.svg)](https://github.com/Tur-4000/php-project-lvl2/actions)
+[![PHP CI](https://github.com/Tur-4000/lvl2-php-hexlet/workflows/PHP%20CI/badge.svg)](https://github.com/Tur-4000/lvl2-php-hexlet/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/122b189b4d8603fe04cf/maintainability)](https://codeclimate.com/github/Tur-4000/lvl2-php-hexlet/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/122b189b4d8603fe04cf/test_coverage)](https://codeclimate.com/github/Tur-4000/lvl2-php-hexlet/test_coverage)
 
