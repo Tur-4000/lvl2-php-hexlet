@@ -7,8 +7,8 @@ on:
   - pull_request
 
 jobs:
-  environment: main-action
   build:
+  environment: main-action
 
     # The type of machine to run the job on
     runs-on: ubuntu-20.04
